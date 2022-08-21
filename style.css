@@ -1,0 +1,63 @@
+.heading {
+    color: hsl(180, 100%, 50%);
+    font-size: 19px;
+    font-weight: bold;
+    width: 100%;
+    font-variant: small-caps;
+}
+
+span {
+    font-size: 16px;
+    color: yellow;
+}
+
+.div_song {
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+.song_result {
+    font-size: 18px;
+    color: yellow;
+    font-weight: bold;
+}
+
+#PLAY{
+    font-size: 25px;
+    background-color: cyan;
+    font-weight: bold;
+    width: 20%;
+    height: 40%;
+    }
+
+    #PLAY:hover{
+    background-color: orangered;
+    }
+
+    #STOP{
+        font-size: 25px;
+        background-color:fuchsia;
+        font-weight: bold;
+        width: 20%;
+        height: 40%;
+        }
+    
+        #STOP:hover{
+        background-color:darkorchid;
+        }
+
+
+    .song_result:hover{
+    background-color: chartreuse;
+    }
+
+    .heading:hover{
+    background-color: darkcyan;
+    }
+
+canvas{
+    border: 10px solid red;
+    border-radius: 20px;
+    box-shadow: 12px 10px 60px cyan;
+    }
